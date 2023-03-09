@@ -1,7 +1,7 @@
-package com.example.demo.controllers
+package com.crypto.bff.controllers
 
-import com.example.demo.entities.Currency
-import com.example.demo.entities.CurrencyRates
+import com.crypto.bff.entities.Currency
+import com.crypto.bff.entities.CurrencyRates
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.web.bind.annotation.RestController

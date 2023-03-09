@@ -1,6 +1,6 @@
-package com.example.demo.repositories
+package com.crypto.bff.repositories
 
-import com.example.demo.entities.Contact
+import com.crypto.bff.entities.Contact
 import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.stereotype.Repository
 

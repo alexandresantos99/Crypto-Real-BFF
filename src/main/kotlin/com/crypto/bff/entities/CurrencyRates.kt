@@ -1,4 +1,4 @@
-package com.example.demo.entities
+package com.crypto.bff.entities
 
 import com.fasterxml.jackson.annotation.JsonProperty
 

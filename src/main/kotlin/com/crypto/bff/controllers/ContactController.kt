@@ -1,8 +1,8 @@
-package com.example.demo.controllers
+package com.crypto.bff.controllers
 
-import com.example.demo.entities.Contact
-import com.example.demo.entities.CurrencyRates
-import com.example.demo.repositories.ContactRepository
+import com.crypto.bff.entities.Contact
+import com.crypto.bff.entities.CurrencyRates
+import com.crypto.bff.repositories.ContactRepository
 import jakarta.persistence.EntityNotFoundException
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.web.bind.annotation.*
