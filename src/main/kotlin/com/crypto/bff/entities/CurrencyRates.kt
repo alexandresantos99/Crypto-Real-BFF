@@ -15,5 +15,6 @@ data class Currency(
     @JsonProperty("value")
     val value: Double,
     @JsonProperty("type")
-    val type: String
+    val type: String,
+    var urlImage: String = ""
 )
